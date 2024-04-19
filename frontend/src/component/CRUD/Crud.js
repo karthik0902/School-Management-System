@@ -123,7 +123,7 @@ function Crud() {
   
 return(
     <div>
-    <div className='container'>
+    <div className='container' style={{marginRight:"70%"}}>
         <div className='Crud'>
             <h4>Post</h4>
             <TextField id="standard-basic" label="School name:" onChange={(e)=>School_name(e.target.value)} variant="standard" /><br/>
