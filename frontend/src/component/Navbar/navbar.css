@@ -1,0 +1,16 @@
+.link{
+    margin-right: 1%;
+    text-decoration: none;
+    background-color: lightblue;
+    font-size:x-large;
+    color: black;
+    padding: 1%;
+    margin-left: 1%;
+    border-radius: 10px;
+    
+}
+.nav{
+    margin-top: 20px;
+    margin-left:10px;
+   
+}
